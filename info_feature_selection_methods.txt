@@ -282,3 +282,8 @@ reduced the training time of the model.
 
  End Notes
  I believe that his article has given you a good idea of how you can perform feature selection to get the best out of your models. These are the broad categories that are commonly used for feature selection. I believe you will be convinced about the potential uplift in your model that you can unlock using feature selection and added benefits of feature selection.
+
+
+Other Useful links:
+https://machinelearningmastery.com/feature-selection-machine-learning-python/
+https://machinelearningmastery.com/feature-selection-in-python-with-scikit-learn/
