@@ -6,12 +6,12 @@
         "failure": 2
     }, 
     "default": {
-        "yes": 0, 
-        "no": 1
+        "yes": 1, 
+        "no": 0
     }, 
     "loan": {
-        "yes": 0, 
-        "no": 1
+        "yes": 1, 
+        "no": 0
     }, 
     "month": {
         "mar": 2, 
@@ -52,8 +52,8 @@
         "divorced": 1
     }, 
     "y": {
-        "yes": 0, 
-        "no": 1
+        "yes": 1, 
+        "no": 0
     }, 
     "education": {
         "unknown": 0, 
@@ -62,7 +62,7 @@
         "secondary": 1
     }, 
     "housing": {
-        "yes": 0, 
-        "no": 1
+        "yes": 1, 
+        "no": 0
     }
 }
