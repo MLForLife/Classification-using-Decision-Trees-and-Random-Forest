@@ -1,6 +1,8 @@
-General Information::
+Trained a Decision Tree with gini and entropy methods.
+Trained Random Forest.
 
-- Algorithms do not take string as as input.
-- Texts are first converted to fixed-length vectors either using Bag of words model, Count Vectorizer, Tf-idfVectorizer or hashingVectorizer method
+The data is related with direct marketing campaigns of a Portuguese banking institution
+
+The classification goal is to predict if the client will subscribe a term deposit (variable y).
 - 
 -
